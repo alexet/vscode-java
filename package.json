@@ -1108,7 +1108,7 @@
     "expand-home-dir": "^0.0.3",
     "find-java-home": "1.1.0",
     "fmtr": "^1.1.2",
-    "fs-extra": "^8.1.0",
+    "fs-extra": "^10.0.0",
     "glob": "^7.1.3",
     "vscode-languageclient": "7.1.0-next.5",
     "winreg-utf8": "^0.1.1",
